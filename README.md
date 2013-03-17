@@ -1,0 +1,1 @@
+Majidata geonode js components
